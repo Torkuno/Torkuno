@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Torkuno&label=Visitors)
 
+![](https://tenor.com/L81P.gif)
+
 ## :book: About me
 - **Likes:** Concise information, game design, animation, databases
 - Currently trying to learn more about AWS, SQL and how to make a propper README 
