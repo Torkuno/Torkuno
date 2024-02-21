@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Torkuno&label=Visitors)
 
-![](https://tenor.com/L81P.gif)
+<p align="center"><img src="https://media1.tenor.com/m/QTaHgFrG5NAAAAAC/raccoon-roll.gif" alt="animated" /></p>
 
 ## :book: About me
 - **Likes:** Concise information, game design, animation, databases
