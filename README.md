@@ -4,9 +4,9 @@
 
 <p align="center"><img src="https://media1.tenor.com/m/QTaHgFrG5NAAAAAC/raccoon-roll.gif" alt="animated" /></p>
 
-## :book: About me
-- **Likes:** Concise information, game design, animation, databases
-- Currently trying to learn more about AWS, SQL and how to make a propper README 
+## About me
+- **Likes:** Concise information, game design, animation, databases, networks.
+- Currently trying to learn more about AWS and game engines such as Unreal, Unity, and GameMaker Studio.
 
 <div class="stats" align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Torkuno&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Torkuno"/></p>
