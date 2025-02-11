@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my little GitHub corner! :space_invader:</h1>
 
-![](https://komarev.com/ghpvc/?username=Torkuno&label=Visitors)
-
 <p align="center"><img src="https://media1.tenor.com/m/QTaHgFrG5NAAAAAC/raccoon-roll.gif" alt="animated" /></p>
 
 ## About me
