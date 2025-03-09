@@ -4,7 +4,7 @@
 
 ## About me
 - **Likes:** Concise information, game design, animation, databases, networks.
-- Currently trying to learn more about full-stack development, Amazon Web Services, and game engines such as Unreal, Unity, and GameMaker Studio.
+- Currently learning more about full-stack development, Amazon Web Services, and game engines such as Unreal, Unity, and GameMaker Studio.
 
 <div class="stats" align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Torkuno&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Torkuno"/></p>
